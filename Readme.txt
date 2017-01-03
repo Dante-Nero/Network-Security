@@ -10,3 +10,7 @@ md5.py --- This programs does the md5 rotation for encrypting the plain text and
 
 ftp_basic.py -- This is a basic program to brute force ftp attack on the server which has the ftp port open.
 
+portscanner.py --- A TCP client program that establishes a connection to server to scan the ports if it is open or close. 
+
+tcpserver.py --- A TCP server program that acts a listener on the mentioned port and connects with the clients. 
+
