@@ -1,9 +1,12 @@
+Welcomme to the Network Security code repo. 
 
+This repo consists of python programs which I created to understand what is happening behind the scene of the security encryption algortihms and some exploits. 
 
-project 2a: It is Python 3 executable file run it in python 3 as it has some functions which are used in python 3
+Primegen.py --- Generates a prime number for the RSA algorithm to work on. It also does a Primecheck for the program. 
 
-filename --- md5
+RSA.py --- RSA executes RSA program with keygen, encrypt and decrypt function with the help of the primegen.py program. 
 
-project 2b: It is python 2 executable file
-filenames === RSA executes RSA program with keygen, encrypt and decrypt function
-	  === Primegen executes prime number generation program as well as prime number check
+md5.py --- This programs does the md5 rotation for encrypting the plain text and hash and vice versa. 
+
+ftp_basic.py -- This is a basic program to brute force ftp attack on the server which has the ftp port open.
+
