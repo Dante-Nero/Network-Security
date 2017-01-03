@@ -1,4 +1,4 @@
-This zip file consists of reports and executable code of both project2a and project2b
+
 
 project 2a: It is Python 3 executable file run it in python 3 as it has some functions which are used in python 3
 
