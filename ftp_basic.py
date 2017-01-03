@@ -1,4 +1,4 @@
-#This is a basic program to brute force ftp attack on the server which has the server open. 
+#This is a basic program to brute force ftp attack on the server which has the ftp port open. 
 #Password is guessed using a dictionary attack. The username and hostip should be known.
 #kindly change the inputs whereever necessary. 
 import ftplib
