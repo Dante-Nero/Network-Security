@@ -1,4 +1,4 @@
-Welcomme to the Network Security code repo. 
+Welcome to the Network Security code repo. 
 
 This repo consists of python programs which I created to understand what is happening behind the scene of the security encryption algortihms and some exploits. 
 
